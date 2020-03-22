@@ -1,0 +1,1 @@
+aceasta aplicatie e descrisa in README.md pentru aplicatia corespunzatoare pt esp32
